@@ -1,5 +1,7 @@
 # FlorestOS 1.0
 
+<img width="720" height="400" alt="VirtualBox_FlorestOS_26_10_2026_20_26_24" src="https://github.com/user-attachments/assets/42082d3b-c52b-42f1-b222-b6787c2ef1b6" />
+
 A tiny 32-bit x86 hobby operating system by **FlorestDevelopment
 (FlorestDev)**.
 
